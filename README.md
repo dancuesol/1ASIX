@@ -6,11 +6,7 @@
 
 
 ```bash
-named-checkzone bigbrainXY.com /etc/bind/db.bigbrainXY.com
-named-checkzone 11.0.10.in-addr.arpa /etc/bind/db.11.0.10
-named-checkzone 12.0.10.in-addr.arpa /etc/bind/db.12.0.10
-named-checkzone 13.0.10.in-addr.arpa /etc/bind/db.13.0.10
-
+named-checkconf
 ```
 
 ```bash
